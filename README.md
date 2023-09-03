@@ -1,2 +1,15 @@
 # PresentacionYesicaOvando
-Esta es mi presentación personal
+
+## Datos Personales
+![Este soy yo](./img/kuky.p.presetacion.jpg)
+
+- Edad: 32 años
+- Casada
+- 2 Hijos
+- Bar tender y Estudiante de Programación
+
+## Lenguaje de Programación Preferido
+- Python 
+
+
+
